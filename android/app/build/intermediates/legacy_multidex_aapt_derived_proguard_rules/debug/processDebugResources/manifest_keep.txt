@@ -1,0 +1,2 @@
+# Referenced at /Users/Shaggy/Downloads/nativeFirebase/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51
+-keep class com.thinksolutions.nativefirebase.MainApplication { <init>(...); }
